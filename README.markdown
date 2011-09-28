@@ -2,4 +2,4 @@
 
 This is the first application for
 [*Eric's Learning: Ruby on Rails*](http://railstutorial.org/)
-Teacher is [Michael Hartl](htpp://michaelhartl.com/).
+Teacher is [Michael Hartl](http://michaelhartl.com/).
